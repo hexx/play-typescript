@@ -1,5 +1,9 @@
 # TypeScript plugin for the Play framework 2.0.x
 
+**This plugin is not longer being maintained.**
+
+Use [mumoshu/play2-typescript](https://github.com/mumoshu/play2-typescript "mumoshu/play2-typescript").
+
 ## Prerequisites
 
 Play-TypeScript plugin only supports a native compiler.
